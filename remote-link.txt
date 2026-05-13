@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://kay-alert-rehab-platform.trycloudflare.com/vnc.html
+URL       : https://edition-man-pearl-belfast.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-05-13 02:11:57
+Created   : 2026-05-13 07:47:53
 =======================================================
