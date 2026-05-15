@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://scratch-artistic-strategic-publisher.trycloudflare.com/vnc.html
+URL       : https://ana-hop-alcohol-arc.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-05-15 02:11:38
+Created   : 2026-05-15 11:50:10
 =======================================================
