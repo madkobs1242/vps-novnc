@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://harris-stress-reveal-into.trycloudflare.com/vnc.html
+URL       : https://chronicles-gen-eastern-smooth.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-05-17 02:06:58
+Created   : 2026-05-17 07:32:53
 =======================================================
