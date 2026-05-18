@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://whose-earned-instructions-apparently.trycloudflare.com/vnc.html
+URL       : https://nobody-bacterial-departure-promo.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-05-18 02:18:06
+Created   : 2026-05-18 08:43:42
 =======================================================
