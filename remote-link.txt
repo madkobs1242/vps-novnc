@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://innovation-richard-combining-latitude.trycloudflare.com/vnc.html
+URL       : https://figured-malpractice-growth-arrested.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-05-20 12:18:55
+Created   : 2026-05-20 17:52:02
 =======================================================
