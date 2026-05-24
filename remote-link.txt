@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://nursery-student-smallest-warriors.trycloudflare.com/vnc.html
+URL       : https://yamaha-polished-push-embassy.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-05-23 20:41:49
+Created   : 2026-05-24 02:14:47
 =======================================================
