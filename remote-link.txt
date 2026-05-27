@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://buf-ladies-apnic-publishers.trycloudflare.com/vnc.html
+URL       : https://investigate-footwear-lectures-ended.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-05-26 21:31:33
+Created   : 2026-05-27 02:33:30
 =======================================================
