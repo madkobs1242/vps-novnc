@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://came-paradise-remembered-sufficiently.trycloudflare.com/vnc.html
+URL       : https://rocks-fred-biological-precipitation.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-05-27 17:54:19
+Created   : 2026-05-27 21:51:30
 =======================================================
