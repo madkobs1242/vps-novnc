@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://universal-boards-periodic-dig.trycloudflare.com/vnc.html
+URL       : https://kid-symphony-gathering-oxide.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-05-28 13:43:14
+Created   : 2026-05-28 17:59:32
 =======================================================
