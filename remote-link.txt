@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://buys-disciplines-renaissance-boats.trycloudflare.com/vnc.html
+URL       : https://dry-irrigation-appreciated-musicians.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-01 22:33:04
+Created   : 2026-06-02 02:41:35
 =======================================================
