@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://actually-emerald-obj-pioneer.trycloudflare.com/vnc.html
+URL       : https://excel-lease-strike-amounts.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-05 02:31:45
+Created   : 2026-06-05 08:41:07
 =======================================================
