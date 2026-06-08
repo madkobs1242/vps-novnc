@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://gorgeous-pan-skirt-mime.trycloudflare.com/vnc.html
+URL       : https://depends-printing-posted-recommended.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-08 14:01:18
+Created   : 2026-06-08 17:47:00
 =======================================================
