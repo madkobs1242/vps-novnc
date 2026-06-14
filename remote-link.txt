@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://designing-warranties-submitted-reviews.trycloudflare.com/vnc.html
+URL       : https://pattern-bureau-potentially-adapters.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-14 02:41:41
+Created   : 2026-06-14 08:39:25
 =======================================================
