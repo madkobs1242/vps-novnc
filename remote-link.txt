@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://partnership-mod-thinking-verbal.trycloudflare.com/vnc.html
+URL       : https://pharmaceutical-specialists-immediate-recording.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-15 19:03:23
+Created   : 2026-06-15 22:12:57
 =======================================================
