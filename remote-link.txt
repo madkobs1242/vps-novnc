@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://opponent-coordinator-console-implies.trycloudflare.com/vnc.html
+URL       : https://races-tropical-gently-briefs.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-17 21:55:30
+Created   : 2026-06-18 02:42:29
 =======================================================
