@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://guards-returns-drawn-varying.trycloudflare.com/vnc.html
+URL       : https://today-rosa-forecast-anonymous.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-20 21:07:03
+Created   : 2026-06-21 02:46:01
 =======================================================
