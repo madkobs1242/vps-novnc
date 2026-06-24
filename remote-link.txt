@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://entrance-dash-name-scientific.trycloudflare.com/vnc.html
+URL       : https://installing-charge-plasma-villages.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-24 12:16:05
+Created   : 2026-06-24 17:02:19
 =======================================================
