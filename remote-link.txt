@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://paid-approximate-calls-respected.trycloudflare.com/vnc.html
+URL       : https://fits-brisbane-inquire-yellow.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-27 02:13:25
+Created   : 2026-06-27 07:46:13
 =======================================================
