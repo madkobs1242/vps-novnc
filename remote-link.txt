@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://often-accommodations-holiday-wax.trycloudflare.com/vnc.html
+URL       : https://conjunction-mas-university-hypothesis.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-29 02:34:42
+Created   : 2026-06-29 09:25:00
 =======================================================
