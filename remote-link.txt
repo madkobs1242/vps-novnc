@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://busy-cameron-tba-offset.trycloudflare.com/vnc.html
+URL       : https://examines-grey-permission-contracts.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-04 11:20:16
+Created   : 2026-07-04 15:56:57
 =======================================================
