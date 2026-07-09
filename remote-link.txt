@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://oscar-reserves-duck-lecture.trycloudflare.com/vnc.html
+URL       : https://owned-navigate-measurement-spies.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-09 17:13:56
+Created   : 2026-07-09 21:14:56
 =======================================================
