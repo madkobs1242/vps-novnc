@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://late-excess-muslim-henry.trycloudflare.com/vnc.html
+URL       : https://ampland-thirty-establishing-their.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-12 11:07:08
+Created   : 2026-07-12 15:52:53
 =======================================================
