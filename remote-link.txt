@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://consultancy-portal-asian-brighton.trycloudflare.com/vnc.html
+URL       : https://taken-clocks-gary-owns.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-13 08:12:09
+Created   : 2026-07-13 12:28:49
 =======================================================
